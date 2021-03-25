@@ -18,4 +18,18 @@ and these are some of the programs I've created so far.
 ## Assignment #5
 * **task:** create a program that takes a range of temperatures and converts then to celcius <br/>
  from farenheit or vice versa depending on user selection. The range should print the original <br/>
- temperatures  to the right and print the converted on the left side of the table.
+ temperatures  to the right and print the converted on the left side of the table.<br/>
+ 
+ 
+ Celcius | Farenheit
+------------ | -------------
+temp1 | temp1 convert
+...    |...
+temp2   | temp2 convert
+
+### OR
+ Farenheit | Celcius
+------------ | -------------
+temp1 | temp1 convert
+...    |...
+temp2   | temp2 convert
