@@ -1,5 +1,6 @@
 # CSC114 - Computer Science I
-I'm currently taking a computer science I course and these are some of thr programs I've created so far.
+I'm currently taking a Computer Science I course  at Delaware Technical Community College <br/>
+and these are some of the programs I've created so far.
 
 ## Assignment #1
 * **task:** create a program which computes tax and tips for a bill of a specific amount. <br/>
