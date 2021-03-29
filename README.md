@@ -24,4 +24,5 @@ and these are some of the programs I've created so far.
 * **task:** create a program that takes a range of temperatures and converts then to celcius <br/>
  from farenheit or vice versa depending on user selection. The range should print the original <br/>
  temperatures  to the right and print the converted on the left side of the table.<br/>
+  * includes use of do-while loops, functions and if-statements
  
