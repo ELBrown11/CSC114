@@ -15,9 +15,7 @@ and these are some of the programs I've created so far.
 ## Assignment #4
 * **task:** create a program that takes speed of a vehicle and hours traveled (via user input) <br/>
   and outputs a table with the distance traveled every hour
-
-
-
+  * include use of a while and for loops
    
 
 ## Assignment #5
