@@ -15,30 +15,13 @@ and these are some of the programs I've created so far.
 ## Assignment #4
 * **task:** create a program that takes speed of a vehicle and hours traveled (via user input) <br/>
   and outputs a table with the distance traveled every hour
-  - for example
 
 
-   Speed | Distance Traveled
-  ------------ | -------------
-  speed_input | distance_travelled
-  ...    |...
-  speed_input + n   | distance_travelled
+
+   
 
 ## Assignment #5
 * **task:** create a program that takes a range of temperatures and converts then to celcius <br/>
  from farenheit or vice versa depending on user selection. The range should print the original <br/>
  temperatures  to the right and print the converted on the left side of the table.<br/>
  
- 
- Celcius | Farenheit
------------- | -------------
-temp1 | temp1 convert
-...    |...
-temp2   | temp2 convert
-
-### OR
- Farenheit | Celcius
------------- | -------------
-temp1 | temp1 convert
-...    |...
-temp2   | temp2 convert
